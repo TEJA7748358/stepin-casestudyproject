@@ -7,7 +7,9 @@
                 
   ## FEATURES : 
   .At first we have check wheather person is seating or not by using sensors, and check the heater.
+  
   .After that it gives us indicition, and determine heat.
+  
   .After the determination of heat and person can change the temperature by seeing in the display and adjust is as of the required                   
   temperature.
                 
