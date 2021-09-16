@@ -1,6 +1,8 @@
 ## INTRODUCTION :
 .The main aim of the project is to check wheather a person is seating in seat or not, by using the sensors.And again changing the temperature of the car seats for required temperature .
+
 . Most of these days technology is growing and peoples are expecting more technology systems.
+
 .In this project system is about obeserving persons  and changing the temperature in the module is main thing.
                 
   ## FEATURES : 
